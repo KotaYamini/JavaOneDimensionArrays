@@ -5,3 +5,6 @@ Max & Min of an Array
 
 Frequency of X in Array
 ![image](https://github.com/KotaYamini/JavaOneDimensionArrays/assets/48117959/f7cdca64-f588-4961-8330-2e4abbdb6082)
+
+PrintInReverseOfOneDArray
+![image](https://github.com/KotaYamini/JavaOneDimensionArrays/assets/48117959/d9c73c24-a85a-47c6-b514-63773d070db2)
