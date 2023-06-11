@@ -8,3 +8,7 @@ Frequency of X in Array
 
 PrintInReverseOfOneDArray
 ![image](https://github.com/KotaYamini/JavaOneDimensionArrays/assets/48117959/d9c73c24-a85a-47c6-b514-63773d070db2)
+
+ProductOfElementsInOneDArray
+![image](https://github.com/KotaYamini/JavaOneDimensionArrays/assets/48117959/01b53e73-8d5b-4465-b75b-d758fe73675c)
+
