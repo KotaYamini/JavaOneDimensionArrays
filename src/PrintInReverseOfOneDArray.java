@@ -2,7 +2,7 @@
 * Write a program to print the input array A of size N
 * in reverse order where you have to take integer N and further N elements as input from user.
 *
-* Problem Constraints
+Problem Constraints
 1 <= N <= 1000
 1 <= A <= 1000
 * */
